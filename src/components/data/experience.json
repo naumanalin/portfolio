@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "role": "Senior Software Developement Engineer SDE - II",
+        "organisation": "Google",
+        "startDate": "Sept, 2023",
+        "endDate": "Present",
+        "location": "CA, United State",
+        "experiences": [
+            "Worked on Google Gmail",
+            "Worked with the Google Bard Team"
+        ],
+        "imageSrc": "companies/google.png"
+    },
+    {
+        "id": 2,
+        "role": "Senior Software Developement Engineer SDE - I",
+        "organisation": "Microsoft",
+        "startDate": "Aug, 2023",
+        "endDate": "Aug, 2024",
+        "location": "London, UK",
+        "experiences": [
+            "Worked on Windows 10 terminal",
+            "Worked on Windows 11 upcoming features"
+        ],
+        "imageSrc": "companies/microsoft.png"
+    },
+    {
+        "id": 3,
+        "role": "Senior Software Developement Engineer SDE - Intern",
+        "organisation": "Netflix",
+        "startDate": "Sept, 2023",
+        "endDate": "Dec, 2023",
+        "location": "Bengluru, Inida",
+        "experiences": [
+            "Worked on Nextflix payment system",
+            "Helped to create UI for video player"
+        ],
+        "imageSrc": "companies/netflix.png"
+    }
+]
